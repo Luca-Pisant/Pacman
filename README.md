@@ -1,1 +1,1 @@
-[Play Pacman Here](https://luca-pisant.github.io)
+[Play Pacman Here](https://luca-pisant.github.io/Pacman/)
